@@ -1,0 +1,17 @@
+{
+    "name": "hdwebdevelopment/dependency-bundle",
+    "description": "Manage dependencies.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rolf Babijn",
+            "email": "mailrolf@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "~3.7",
+        "composer/composer": "~1.0"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
